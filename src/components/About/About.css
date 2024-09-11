@@ -1,0 +1,58 @@
+.about{
+    height: 35rem;
+    width: 100vw;
+    background-color: rgb(13,13,13);
+    display: flex;
+    /* align-items: center; */
+   
+}
+.about-img{
+    height:20rem;
+    padding-top: 2rem;
+    padding-left: 3rem;
+    
+}
+.img{
+    height: 30rem;
+    width: 40vw;
+    margin-left: 3rem;
+    
+}
+.about-section {
+    height: 35rem;
+    width: 100vw;
+    background-color:  rgb(13,13,13);
+   
+   
+    
+}
+.about-heading{
+    font-size: 1.7rem;
+    text-align: center;
+    margin-right: 25rem;
+
+}
+
+.about-heading2{
+    text-align: center;
+    color: rgba(145, 121, 121, 0.61);
+    margin-right:25rem ;
+}
+.para-about{
+    font-size: 1.3rem;
+}
+.about-btn{
+    height: 3rem;
+    width: 10vw;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    border-radius: 5em;
+    border: none;
+    background-color: white;
+    font-weight: 700;
+    font-size: 0.90rem;
+}
+.about-btn:hover{
+    background-color: rgba(0, 255, 255, 0.836);
+}
+
